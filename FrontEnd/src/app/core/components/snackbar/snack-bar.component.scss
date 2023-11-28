@@ -1,0 +1,16 @@
+.snack-container {
+    display: flex;
+    align-items: center;
+
+    .toaster-subtitle {
+        flex: 1;
+        font-size: 14px;
+    }
+
+    .btn-dismiss {
+        font-weight: 800;
+        margin-left: 2px;
+    }
+}
+
+

@@ -1,0 +1,20 @@
+<div class="container">
+  <h1>{{stringsConstants.REGISTRATION}}</h1>
+  <form name="registrationForm" [formGroup]="registrationForm" (ngSubmit)="onRegister(registrationForm.value)">
+    <div class="form-group">
+      <label>{{stringsConstants.USER_NAME}}</label>
+      <input formControlName="userName"
+             [ngClass]="{ 'is-invalid': submittedUserName &&
+                   registrationForm.get('userName')?.hasError('required') }"
+      >
+    </div>
+
+    <button type="submit" class="btn btn-success">
+      {{stringsConstants.REGISTER}}
+    </button>
+    <button type="button" [routerLink]="'../login'" class="btn btn-success">
+      {{stringsConstants.LOGIN}}
+    </button>
+    <auth-app-spinner [isLoading]="isLoading"></auth-app-spinner>
+  </form>
+</div>

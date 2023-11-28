@@ -1,0 +1,15 @@
+D:\AuthProject\BackEnd\OTPAppWebAPI\OTPApp.Entities\bin\Debug\net6.0\OTPApp.Entities.deps.json
+D:\AuthProject\BackEnd\OTPAppWebAPI\OTPApp.Entities\bin\Debug\net6.0\OTPApp.Entities.dll
+D:\AuthProject\BackEnd\OTPAppWebAPI\OTPApp.Entities\bin\Debug\net6.0\OTPApp.Entities.pdb
+D:\AuthProject\BackEnd\OTPAppWebAPI\OTPApp.Entities\bin\Debug\net6.0\Common.Entities.dll
+D:\AuthProject\BackEnd\OTPAppWebAPI\OTPApp.Entities\bin\Debug\net6.0\Common.Entities.pdb
+D:\AuthProject\BackEnd\OTPAppWebAPI\OTPApp.Entities\obj\Debug\net6.0\OTPApp.Entities.csproj.AssemblyReference.cache
+D:\AuthProject\BackEnd\OTPAppWebAPI\OTPApp.Entities\obj\Debug\net6.0\OTPApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\AuthProject\BackEnd\OTPAppWebAPI\OTPApp.Entities\obj\Debug\net6.0\OTPApp.Entities.AssemblyInfoInputs.cache
+D:\AuthProject\BackEnd\OTPAppWebAPI\OTPApp.Entities\obj\Debug\net6.0\OTPApp.Entities.AssemblyInfo.cs
+D:\AuthProject\BackEnd\OTPAppWebAPI\OTPApp.Entities\obj\Debug\net6.0\OTPApp.Entities.csproj.CoreCompileInputs.cache
+D:\AuthProject\BackEnd\OTPAppWebAPI\OTPApp.Entities\obj\Debug\net6.0\OTPApp.Entities.csproj.CopyComplete
+D:\AuthProject\BackEnd\OTPAppWebAPI\OTPApp.Entities\obj\Debug\net6.0\OTPApp.Entities.dll
+D:\AuthProject\BackEnd\OTPAppWebAPI\OTPApp.Entities\obj\Debug\net6.0\refint\OTPApp.Entities.dll
+D:\AuthProject\BackEnd\OTPAppWebAPI\OTPApp.Entities\obj\Debug\net6.0\OTPApp.Entities.pdb
+D:\AuthProject\BackEnd\OTPAppWebAPI\OTPApp.Entities\obj\Debug\net6.0\ref\OTPApp.Entities.dll

@@ -1,0 +1,11 @@
+D:\AuthProject\BackEnd\OTPAppWebAPI\Common.DTO\bin\Debug\net6.0\Common.DTO.deps.json
+D:\AuthProject\BackEnd\OTPAppWebAPI\Common.DTO\bin\Debug\net6.0\Common.DTO.dll
+D:\AuthProject\BackEnd\OTPAppWebAPI\Common.DTO\bin\Debug\net6.0\Common.DTO.pdb
+D:\AuthProject\BackEnd\OTPAppWebAPI\Common.DTO\obj\Debug\net6.0\Common.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\AuthProject\BackEnd\OTPAppWebAPI\Common.DTO\obj\Debug\net6.0\Common.DTO.AssemblyInfoInputs.cache
+D:\AuthProject\BackEnd\OTPAppWebAPI\Common.DTO\obj\Debug\net6.0\Common.DTO.AssemblyInfo.cs
+D:\AuthProject\BackEnd\OTPAppWebAPI\Common.DTO\obj\Debug\net6.0\Common.DTO.csproj.CoreCompileInputs.cache
+D:\AuthProject\BackEnd\OTPAppWebAPI\Common.DTO\obj\Debug\net6.0\Common.DTO.dll
+D:\AuthProject\BackEnd\OTPAppWebAPI\Common.DTO\obj\Debug\net6.0\refint\Common.DTO.dll
+D:\AuthProject\BackEnd\OTPAppWebAPI\Common.DTO\obj\Debug\net6.0\Common.DTO.pdb
+D:\AuthProject\BackEnd\OTPAppWebAPI\Common.DTO\obj\Debug\net6.0\ref\Common.DTO.dll

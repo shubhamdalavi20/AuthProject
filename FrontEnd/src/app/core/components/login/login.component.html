@@ -1,0 +1,37 @@
+<div class="container">
+  <h1>{{stringsConstants.LOGIN}}</h1>
+  <form name="loginForm" [formGroup]="loginForm" (ngSubmit)="onGetOTP()">
+    <div class="form-group">
+      <label>{{stringsConstants.USER_NAME}}</label>
+      <input formControlName="userName"
+             [ngClass]="{ 'is-invalid': submittedUserName &&
+                   loginForm.get('userName')?.hasError('required') }"
+      >
+    </div>
+    <ng-container *ngIf="Validation.validateInput(otp) === ''; else otpTemplate">
+      <button type="submit" class="btn btn-success" [disabled]="submittedUserName">
+        {{stringsConstants.GET_OTP}}
+      </button>
+      <button type="submit" class="btn btn-success" [routerLink]="'../registration'">
+        {{stringsConstants.REGISTER}}
+      </button>
+    </ng-container>
+    <ng-template #otpTemplate>
+      <div class="mt-2 form-group">
+        <label>{{stringsConstants.OTP}}</label>
+        <input formControlName="otp"
+               [ngClass]="{ 'is-invalid': submittedOTP &&
+                       loginForm.get('otp')?.hasError('required') }"
+        >
+      </div>
+      <button type="submit" (click)="onLogin()" class="mt-2 btn btn-success" [disabled]="submittedOTP">
+        {{stringsConstants.LOGIN}}
+      </button>
+      <div class="mt-2">
+        <p>{{stringsConstants.OTP_IS + otp}}</p>
+        <p>{{stringsConstants.VALID_FOR}}{{display}}{{stringsConstants.SEC}}</p>
+      </div>
+    </ng-template>
+    <auth-app-spinner [isLoading]="isLoading"></auth-app-spinner>
+  </form>
+</div>

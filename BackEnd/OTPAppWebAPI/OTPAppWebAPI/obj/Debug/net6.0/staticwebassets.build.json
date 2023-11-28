@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LAbihB+9ShWt+z7pc9KhPo1ZzapqkFf0C8iXV3zEkwU=",
+  "Source": "OTPAppWebAPI",
+  "BasePath": "_content/OTPAppWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

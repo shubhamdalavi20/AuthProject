@@ -1,0 +1,11 @@
+D:\AuthProject\BackEnd\OTPAppWebAPI\OTPApp.Constants\bin\Debug\net6.0\OTPApp.Constants.deps.json
+D:\AuthProject\BackEnd\OTPAppWebAPI\OTPApp.Constants\bin\Debug\net6.0\OTPApp.Constants.dll
+D:\AuthProject\BackEnd\OTPAppWebAPI\OTPApp.Constants\bin\Debug\net6.0\OTPApp.Constants.pdb
+D:\AuthProject\BackEnd\OTPAppWebAPI\OTPApp.Constants\obj\Debug\net6.0\OTPApp.Constants.GeneratedMSBuildEditorConfig.editorconfig
+D:\AuthProject\BackEnd\OTPAppWebAPI\OTPApp.Constants\obj\Debug\net6.0\OTPApp.Constants.AssemblyInfoInputs.cache
+D:\AuthProject\BackEnd\OTPAppWebAPI\OTPApp.Constants\obj\Debug\net6.0\OTPApp.Constants.AssemblyInfo.cs
+D:\AuthProject\BackEnd\OTPAppWebAPI\OTPApp.Constants\obj\Debug\net6.0\OTPApp.Constants.csproj.CoreCompileInputs.cache
+D:\AuthProject\BackEnd\OTPAppWebAPI\OTPApp.Constants\obj\Debug\net6.0\OTPApp.Constants.dll
+D:\AuthProject\BackEnd\OTPAppWebAPI\OTPApp.Constants\obj\Debug\net6.0\refint\OTPApp.Constants.dll
+D:\AuthProject\BackEnd\OTPAppWebAPI\OTPApp.Constants\obj\Debug\net6.0\OTPApp.Constants.pdb
+D:\AuthProject\BackEnd\OTPAppWebAPI\OTPApp.Constants\obj\Debug\net6.0\ref\OTPApp.Constants.dll
